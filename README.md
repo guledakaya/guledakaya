@@ -17,12 +17,7 @@ Recep Tayyip Erdoğan Üniversitesi’nde Bilgisayar Mühendisliği 3. sınıf �
 
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
----
-### 📊 GitHub İstatistiklerim
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=guledakaya&show_icons=true&theme=radical" alt="Gül Eda Kaya's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guledakaya&layout=compact&theme=radical" alt="Top Langs" height="150" />
-</p>
+
 ---
 
 ### 📫 Bana Ulaşın
