@@ -1,29 +1,25 @@
-# Selam! Ben Gül Eda Kaya 👋
+Selam! Ben Gül Eda Kaya 👋
+Recep Tayyip Erdoğan Üniversitesi’nde Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Mühendislik eğitimime devam ederken, öğrenme azmimi bir adım ileri taşıyarak Sınavsız İkinci Üniversite kapsamında Anadolu Üniversitesi Bilgisayar Programcılığı bölümünü de aynı zaman diliminde tamamlayarak 2025 yılında mezun oldum. Bu çift diploma süreci, bana yoğun tempoda çalışma disiplini ve zaman yönetimi konusunda büyük bir deneyim kazandırdı.
 
-### 🎓 Hakkımda
-Bilgisayar Mühendisliği öğrencisiyim ve Anadolu Üniversitesi Bilgisayar Programcılığı 2025 mezunuyum. Yazılım dünyasının farklı disiplinlerini keşfettiğim, akademik bilgilerimi pratiğe dökmeye çalıştığım bir süreçteyim. Kendimi tek bir alanla sınırlamadan; web, siber güvenlik, oyun ve uygulama geliştirme gibi alanlarda temel yetkinlikler kazanmayı hedefliyorum.
+🚀 Nelerle İlgileniyorum?
+Keşif Süreci: Kendimi tek bir alanla sınırlamadan; Web Geliştirme, Siber Güvenlik, Oyun ve Mobil Uygulama gibi farklı disiplinleri deneyimliyorum.
 
-- 🔍 **İlgi Alanlarım:** Siber Güvenlik, Web Teknolojileri, Oyun & Mobil Uygulama Geliştirme.
-- 🚀 **Öne Çıkan Çalışma:** TÜBİTAK 2209-A kapsamında Raspberry Pi ve Python kullanarak "Akıllı Bitki Yetiştirme Kapsülü" projesini gerçekleştirdim.
-- 💡 **Vizyonum:** Farklı teknolojileri deneyimleyerek uzmanlaşacağım alana karar vermek ve bu süreçte sürekli üretmek.
+TÜBİTAK Deneyimi: 2209-A projemde Raspberry Pi ve Python kullanarak donanım-yazılım entegrasyonu üzerine çalıştım.
 
----
+Akademik Temel: Derslerimde Java, C, R ve MATLAB gibi dillerin teorik ve pratik temellerini attım.
 
-### 🛠️ Teknik Yetkinlikler (Temel Seviye & Öğrenim Süreci)
-*Akademik eğitimim ve projelerim kapsamında deneyimlediğim teknolojiler:*
+Güncel Odak: Şu sıralar HTML, CSS, JavaScript üçlüsüyle web'in mantığını kavrıyor; Bootstrap, React ve Spring Boot gibi yapılara giriş yapıyorum.
 
-| Alan | Araçlar & Diller |
-| :--- | :--- |
-| **Programlama Dilleri** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white) ![MATLAB](https://img.shields.io/badge/-MATLAB-e7eaed?style=flat&logo=mathworks&logoColor=red) |
-| **Web & Frameworks** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white) |
-| **Veri & Yapay Zeka** | ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) |
-| **Araçlar & Donanım** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white) ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white) |
+🛠️ Araç Kutusu (Öğrenim Aşamasında)
+Diller: Java, C, Python, JavaScript, R, MATLAB.
 
----
+Web & Veri: HTML, CSS, Bootstrap, SQL, React (Temel), Spring Boot (Temel).
 
-### 📫 Bana Ulaşın
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/gul-eda-kaya)
-[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:gul.edaa.kaya@gmail.com)
+İlgi Alanları: Siber Güvenlik Temelleri, TensorFlow & PyTorch (Farkındalık seviyesinde).
 
----
-*“Sürekli öğreniyor ve geliştiriyorum.”* 🚀
+Diğer: Git, GitHub, Raspberry Pi, WordPress.
+
+Yolun başında bir mühendis adayı olarak, gördüğüm her yeni teknolojiyi bir öğrenme fırsatı olarak değerlendiriyor ve uzmanlaşacağım alanı bulmak için denemeler yapmaya devam ediyorum.
+
+📫 Bana Ulaşın
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> | E-posta: gul.edaa.kaya@gmail.com
