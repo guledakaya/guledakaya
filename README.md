@@ -1,6 +1,6 @@
 # Selam! Ben Gül Eda Kaya 👋
 
-Recep Tayyip Erdoğan Üniversitesi’nde Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Mühendislik eğitimime devam ederken, Sınavsız İkinci Üniversite kapsamında Anadolu Üniversitesi **Bilgisayar Programcılığı** bölümünü de aynı zaman diliminde tamamlayarak 2025 yılında mezun oldum. Bu çift diploma süreci, bana yoğun tempoda çalışma disiplini ve zaman yönetimi konusunda büyük bir deneyim kazandırdı.
+Recep Tayyip Erdoğan Üniversitesi’nde Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Mühendislik eğitimime devam ederken, Sınavsız İkinci Üniversite kapsamında Anadolu Üniversitesi **Bilgisayar Programcılığı** bölümünü de aynı zaman diliminde tamamlayarak 2025 yılında mezun oldum. Bu çift diploma süreci, bana yoğun tempoda çalışma disiplini ve zaman yönetimi konusunda büyük bir deneyim kazandırdı.
 
 ### 🚀 Nelerle İlgileniyorum?
 
